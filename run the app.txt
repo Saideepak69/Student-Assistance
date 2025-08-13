@@ -1,0 +1,1 @@
+streamlit run "c:\Users\saide\OneDrive\Desktop\Student Assistance\Student-Assistance.py"
